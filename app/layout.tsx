@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Eventory',
   description: 'Created by Steveceto',
   generator: 'Steveceto',
+
 }
 
 export default function RootLayout({
